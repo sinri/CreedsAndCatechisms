@@ -11,3 +11,6 @@
 
 1. [The Belgic Confession](./Creeds/TheBelgicConfession.md)
 
+----
+
+Main Site: [sinri.github.io](https://sinri.github.io/)
